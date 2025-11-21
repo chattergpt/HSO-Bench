@@ -22,7 +22,7 @@ We introduce a novel framework for oppression measurement that leverages Large L
 Our results demonstrate that LLMs, when guided by explicit rules, can capture nuanced forms of identity-based historical oppression within nations. This approach provides a complementary measurement tool that highlights dimensions of systemic exclusion, offering a scalable, cross-cultural lens for understanding how oppression manifests in data-driven research and public health contexts.
 
 ## Example Usage
-This pipeline assigns oppression scores (1-5) and explanations to free-text identity–country pairs using LangChain. It is designed for use in Google Colab, with manual variable configuration.
+This pipeline assigns oppression scores (1-5) and explanations to free-text identity-country pairs using LangChain. It is designed for use in Google Colab, with manual variable configuration.
 ```bash
 python ethnicity_assignment_pipeline.py
 ```
