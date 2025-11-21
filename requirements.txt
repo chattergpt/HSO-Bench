@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+openai
+pandas
+tqdm
+regex
+matplotlib

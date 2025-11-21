@@ -1,0 +1,10 @@
+model,prompt,accuracy,cohen_kappa,mae,pearson_corr,spearman_corr
+gemini,cot,0.512,0.374,0.56,0.781,0.773
+gemini,rule-guided,0.608,0.482,0.401,0.852,0.844
+gemini,vanilla,0.515,0.374,0.509,0.831,0.837
+gpt-3.5-turbo,cot,0.353,0.19,0.749,0.692,0.693
+gpt-3.5-turbo,rule-guided,0.542,0.408,0.521,0.755,0.729
+gpt-3.5-turbo,vanilla,0.419,0.239,0.614,0.733,0.678
+gpt-4o-mini,cot,0.536,0.398,0.497,0.819,0.836
+gpt-4o-mini,rule-guided,0.575,0.44,0.446,0.82,0.831
+gpt-4o-mini,vanilla,0.581,0.448,0.461,0.801,0.814
